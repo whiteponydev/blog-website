@@ -1,0 +1,21 @@
+body {
+    background-image: url('images/background.jpg'), url('images/background2.jpg');
+    background-size: cover;
+    background-blend-mode: hard-light;
+}
+
+h1 {
+    font-family: "Abril Fatface", serif;
+    text-transform: uppercase;
+    padding: 25px;
+}
+
+p {
+    font-family: "Playfair Display", serif;
+    width: 250px;
+    padding: 50px;
+    margin-left: 500px;
+    border: solid 2px black;
+    font-weight: bold;
+    background-color: rgb(120, 44, 0, 0.7);
+}
